@@ -1,0 +1,14 @@
+algorithm = EBRB
+inputData = "/Users/yangyangxue/Downloads/KEEL-master/bin/data/pima/pima-5-5tst.dat" "/Users/yangyangxue/Downloads/KEEL-master/bin/data/pima/pima-5-5tst.dat" "/Users/yangyangxue/Downloads/KEEL-master/bin/data/pima/pima-5-5tst.dat"
+
+outputData = "/Users/yangyangxue/Downloads/result0s0.tra" "/Users/yangyangxue/Downloads/result0s0.tst" "/Users/yangyangxue/Downloads/result0e0.txt" "/Users/yangyangxue/Downloads/result0e1.txt"  
+
+
+minR=3
+maxR=6
+Maximum number of cycles=500
+Number of population=100
+Mutation probability=0.8
+Cross probability=0.8
+
+
